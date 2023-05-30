@@ -2,11 +2,11 @@
   "pages": [
     {
       "id": "login2",
-      "isDefault": false
+      "isDefault": true
     },
     {
       "id": "123",
-      "isDefault": true
+      "isDefault": false
     },
     {
       "id": "Submit new order",
@@ -43,6 +43,17 @@
   "unpublishedApplicationDetail": {
     "appPositioning": {
       "type": "AUTO"
+    },
+    "navigationSetting": {
+      "showNavbar": true,
+      "orientation": "top",
+      "navStyle": "inline",
+      "position": "static",
+      "itemStyle": "text",
+      "colorStyle": "light",
+      "logoAssetId": "",
+      "logoConfiguration": "logoAndApplicationTitle",
+      "showSignIn": true
     }
   },
   "publishedApplicationDetail": {
@@ -69,6 +80,11 @@
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,
+  "embedSetting": {
+    "height": "720px",
+    "width": "1024px",
+    "showNavigationBar": false
+  },
   "collapseInvisibleWidgets": true,
   "isManualUpdate": false,
   "deleted": false

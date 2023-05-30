@@ -61,7 +61,7 @@
                   "key": "menuItems.menuItem1.onClick"
                 }
               ],
-              "leftColumn": 57.857142857142854,
+              "leftColumn": 57.71007371007371,
               "dynamicBindingPathList": [
                 {
                   "key": "menuColor"
@@ -106,7 +106,7 @@
                   "isVisible": true,
                   "isDisabled": false,
                   "index": 2,
-                  "onClick": "{{JSObject1.logOut();}}",
+                  "onClick": "{{JSObject2.logOut();}}",
                   "iconName": "log-out"
                 }
               },
@@ -1254,7 +1254,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 27.838574423480082,
+                      "leftColumn": 27.04862842892768,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -1264,7 +1264,7 @@
                       "isDisabled": false,
                       "key": "thwgvy1bme",
                       "isDeprecated": false,
-                      "rightColumn": 36.16142557651992,
+                      "rightColumn": 36.951371571072315,
                       "isDefaultClickDisabled": true,
                       "widgetId": "fw9zrg6rr7",
                       "minWidth": 120,
@@ -1304,7 +1304,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 58.63312368972746,
+                      "leftColumn": 57.61596009975062,
                       "dynamicBindingPathList": [],
                       "text": "Update",
                       "isDisabled": false,
@@ -1589,7 +1589,7 @@
                       "flexVerticalAlignment": "end",
                       "image": "",
                       "isDeprecated": false,
-                      "rightColumn": 12.52271139063592,
+                      "rightColumn": 14.89609310058188,
                       "objectFit": "contain",
                       "widgetId": "9a5j5el9qe",
                       "isVisible": true,
@@ -1628,7 +1628,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 12.52271139063592,
+                      "leftColumn": 14.89609310058188,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -1639,7 +1639,7 @@
                       "key": "ea7apjwric",
                       "flexVerticalAlignment": "end",
                       "isDeprecated": false,
-                      "rightColumn": 17.889587700908457,
+                      "rightColumn": 21.280133000831256,
                       "isDefaultClickDisabled": true,
                       "widgetId": "slk6q8d7ay",
                       "minWidth": 120,
@@ -1683,7 +1683,7 @@
                       "flexVerticalAlignment": "end",
                       "image": "",
                       "isDeprecated": false,
-                      "rightColumn": 12.52271139063592,
+                      "rightColumn": 14.89609310058188,
                       "objectFit": "contain",
                       "widgetId": "2xwvut9mw2",
                       "isVisible": true,
@@ -1722,7 +1722,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 12.52271139063592,
+                      "leftColumn": 14.89609310058188,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -1733,7 +1733,7 @@
                       "key": "ea7apjwric",
                       "flexVerticalAlignment": "end",
                       "isDeprecated": false,
-                      "rightColumn": 19.26345213137666,
+                      "rightColumn": 22.916874480465502,
                       "isDefaultClickDisabled": true,
                       "widgetId": "qkiasf7rl0",
                       "minWidth": 120,
@@ -1777,7 +1777,7 @@
                       "flexVerticalAlignment": "end",
                       "image": "",
                       "isDeprecated": false,
-                      "rightColumn": 12.52271139063592,
+                      "rightColumn": 14.89609310058188,
                       "objectFit": "contain",
                       "widgetId": "59grj3n33x",
                       "isVisible": true,
@@ -1816,7 +1816,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 12.52271139063592,
+                      "leftColumn": 14.89609310058188,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -1827,7 +1827,7 @@
                       "key": "ea7apjwric",
                       "flexVerticalAlignment": "end",
                       "isDeprecated": false,
-                      "rightColumn": 18.41090146750524,
+                      "rightColumn": 21.90274314214464,
                       "isDefaultClickDisabled": true,
                       "widgetId": "2nlxt6k6jq",
                       "minWidth": 120,
@@ -1871,7 +1871,7 @@
                       "flexVerticalAlignment": "end",
                       "image": "",
                       "isDeprecated": false,
-                      "rightColumn": 12.52271139063592,
+                      "rightColumn": 14.89609310058188,
                       "objectFit": "contain",
                       "widgetId": "33ss5ypjzq",
                       "isVisible": true,
@@ -1910,7 +1910,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 12.52271139063592,
+                      "leftColumn": 14.89609310058188,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -1921,7 +1921,7 @@
                       "key": "ea7apjwric",
                       "flexVerticalAlignment": "end",
                       "isDeprecated": false,
-                      "rightColumn": 17.889587700908457,
+                      "rightColumn": 21.280133000831256,
                       "isDefaultClickDisabled": true,
                       "widgetId": "bss2hu6wc2",
                       "minWidth": 120,
@@ -2069,7 +2069,7 @@
                   "widgetName": "Canvas2",
                   "displayName": "Canvas",
                   "topRow": 0,
-                  "bottomRow": 398.00000000000006,
+                  "bottomRow": 400,
                   "parentRowSpace": 1,
                   "type": "CANVAS_WIDGET",
                   "canExtend": true,

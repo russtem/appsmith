@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 380,
+          "bottomRow": 690,
           "containerStyle": "none",
           "snapRows": 67,
           "parentRowSpace": 1,
@@ -325,7 +325,7 @@
                               "hideCard": false,
                               "mobileRightColumn": 46,
                               "animateLoading": true,
-                              "leftColumn": 51.210657785179016,
+                              "leftColumn": 51.27423363711682,
                               "dynamicBindingPathList": [
                                 {
                                   "key": "buttonColor"
@@ -339,7 +339,7 @@
                               "key": "gdevve5cbn",
                               "flexVerticalAlignment": "end",
                               "isDeprecated": false,
-                              "rightColumn": 57.605328892589505,
+                              "rightColumn": 57.63711681855841,
                               "isDefaultClickDisabled": true,
                               "widgetId": "hy9majgdwm",
                               "minWidth": 120,
@@ -383,7 +383,7 @@
                                   "key": "onClick"
                                 }
                               ],
-                              "leftColumn": 57.605328892589505,
+                              "leftColumn": 57.63711681855841,
                               "dynamicBindingPathList": [
                                 {
                                   "key": "buttonColor"
@@ -397,7 +397,7 @@
                               "key": "gdevve5cbn",
                               "flexVerticalAlignment": "end",
                               "isDeprecated": false,
-                              "rightColumn": 63.99999999999999,
+                              "rightColumn": 64,
                               "isDefaultClickDisabled": true,
                               "widgetId": "6pg4cmjatf",
                               "minWidth": 120,
@@ -531,7 +531,7 @@
                   "mobileBottomRow": 150,
                   "widgetName": "Canvas2",
                   "displayName": "Canvas",
-                  "bottomRow": 347.96875,
+                  "bottomRow": 367.96875,
                   "topRow": 0,
                   "parentRowSpace": 1,
                   "type": "CANVAS_WIDGET",
