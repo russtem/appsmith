@@ -325,7 +325,7 @@
                               "hideCard": false,
                               "mobileRightColumn": 46,
                               "animateLoading": true,
-                              "leftColumn": 51.27423363711682,
+                              "leftColumn": 51.210657785179016,
                               "dynamicBindingPathList": [
                                 {
                                   "key": "buttonColor"
@@ -339,7 +339,7 @@
                               "key": "gdevve5cbn",
                               "flexVerticalAlignment": "end",
                               "isDeprecated": false,
-                              "rightColumn": 57.63711681855841,
+                              "rightColumn": 57.605328892589505,
                               "isDefaultClickDisabled": true,
                               "widgetId": "hy9majgdwm",
                               "minWidth": 120,
@@ -383,7 +383,7 @@
                                   "key": "onClick"
                                 }
                               ],
-                              "leftColumn": 57.63711681855841,
+                              "leftColumn": 57.605328892589505,
                               "dynamicBindingPathList": [
                                 {
                                   "key": "buttonColor"
@@ -397,7 +397,7 @@
                               "key": "gdevve5cbn",
                               "flexVerticalAlignment": "end",
                               "isDeprecated": false,
-                              "rightColumn": 64,
+                              "rightColumn": 63.99999999999999,
                               "isDefaultClickDisabled": true,
                               "widgetId": "6pg4cmjatf",
                               "minWidth": 120,

@@ -18,7 +18,7 @@
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
       "encodeParamsToggle": true,
-      "body": "INSERT INTO\n    teachers.\"user_data\" (\n        \"userid\",\n        \"firstname\",\n        \"lastname\",\n\t\t\t \"city\",\n\t\t\t \"gender\",\n\t\t\t \"age\",\n        \"phone\"\n    )\nVALUES\n    (\n{{this.params.userid}},\n{{Input1.text}},\n{{Input2.text}},\n{{Input3.text}},\n{{Select1.selectedOptionValue}},\n{{Input4.text}},\n{{PhoneInput1.text}}\n    );\n",
+      "body": "INSERT INTO\n    teachers.\"user_data\" (\n        \"userid\",\n        \"firstname\",\n        \"lastname\",\n\t\t\t \"city\",\n\t\t\t \"gender\",\n\t\t\t \"age\",\n        \"phone\"\n    )\nVALUES\n    (\n{{JSObject2.myFunction.data}},\n{{Input1.text}},\n{{Input2.text}},\n{{Input3.text}},\n{{Select1.selectedOptionValue}},\n{{Input4.text}},\n{{PhoneInput1.text}}\n    );\n",
       "selfReferencingDataPaths": [],
       "pluginSpecifiedTemplates": [
         {
@@ -40,9 +40,9 @@
       "Input2.text",
       "Input3.text",
       "Input4.text",
+      "JSObject2.myFunction.data",
       "PhoneInput1.text",
-      "Select1.selectedOptionValue",
-      "this.params.userid"
+      "Select1.selectedOptionValue"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,

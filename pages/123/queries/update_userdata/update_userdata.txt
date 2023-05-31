@@ -10,7 +10,7 @@ INSERT INTO
     )
 VALUES
     (
-{{this.params.userid}},
+{{JSObject2.myFunction.data}},
 {{Input1.text}},
 {{Input2.text}},
 {{Input3.text}},

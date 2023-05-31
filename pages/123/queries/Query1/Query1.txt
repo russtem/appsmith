@@ -1,1 +1,1 @@
-SELECT * from teachers.users where id = {{this.params.id}}
+SELECT * from teachers.users where id = '{{this.params.id}}'

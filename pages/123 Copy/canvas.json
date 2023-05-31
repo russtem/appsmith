@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 808.0000000000001,
+          "bottomRow": 1870,
           "containerStyle": "none",
           "snapRows": 66,
           "parentRowSpace": 1,
@@ -61,7 +61,7 @@
                   "key": "menuItems.menuItem1.onClick"
                 }
               ],
-              "leftColumn": 57.87826685006877,
+              "leftColumn": 57.71007371007371,
               "dynamicBindingPathList": [
                 {
                   "key": "menuColor"
@@ -155,7 +155,7 @@
                   "widgetName": "Canvas2CopyCopyCopyCopy",
                   "displayName": "Canvas",
                   "topRow": 0,
-                  "bottomRow": 466.0000000000001,
+                  "bottomRow": 476.00000000000017,
                   "parentRowSpace": 1,
                   "type": "CANVAS_WIDGET",
                   "canExtend": false,
@@ -1080,7 +1080,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 27.85306406685237,
+                      "leftColumn": 27.073200992555833,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -1090,7 +1090,7 @@
                       "isDisabled": false,
                       "key": "thwgvy1bme",
                       "isDeprecated": false,
-                      "rightColumn": 36.14693593314763,
+                      "rightColumn": 36.92679900744417,
                       "isDefaultClickDisabled": true,
                       "widgetId": "fw9zrg6rr7",
                       "minWidth": 120,
@@ -1136,7 +1136,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 57.49791086350975,
+                      "leftColumn": 56.2746071133168,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -1413,7 +1413,7 @@
                       "flexVerticalAlignment": "end",
                       "image": "",
                       "isDeprecated": false,
-                      "rightColumn": 12.479108635097493,
+                      "rightColumn": 14.89609310058188,
                       "objectFit": "contain",
                       "widgetId": "9a5j5el9qe",
                       "isVisible": true,
@@ -1452,7 +1452,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 12.479108635097493,
+                      "leftColumn": 14.89609310058188,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -1463,7 +1463,7 @@
                       "key": "ea7apjwric",
                       "flexVerticalAlignment": "end",
                       "isDeprecated": false,
-                      "rightColumn": 17.827298050139277,
+                      "rightColumn": 21.280133000831256,
                       "isDefaultClickDisabled": true,
                       "widgetId": "slk6q8d7ay",
                       "minWidth": 120,
@@ -1507,7 +1507,7 @@
                       "flexVerticalAlignment": "end",
                       "image": "",
                       "isDeprecated": false,
-                      "rightColumn": 12.479108635097493,
+                      "rightColumn": 14.89609310058188,
                       "objectFit": "contain",
                       "widgetId": "2xwvut9mw2",
                       "isVisible": true,
@@ -1546,7 +1546,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 12.479108635097493,
+                      "leftColumn": 14.89609310058188,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -1557,7 +1557,7 @@
                       "key": "ea7apjwric",
                       "flexVerticalAlignment": "end",
                       "isDeprecated": false,
-                      "rightColumn": 19.196378830083564,
+                      "rightColumn": 22.877069113815956,
                       "isDefaultClickDisabled": true,
                       "widgetId": "qkiasf7rl0",
                       "minWidth": 120,
@@ -1601,7 +1601,7 @@
                       "flexVerticalAlignment": "end",
                       "image": "",
                       "isDeprecated": false,
-                      "rightColumn": 12.479108635097493,
+                      "rightColumn": 14.89609310058188,
                       "objectFit": "contain",
                       "widgetId": "59grj3n33x",
                       "isVisible": true,
@@ -1640,7 +1640,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 12.479108635097493,
+                      "leftColumn": 14.89609310058188,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -1651,7 +1651,7 @@
                       "key": "ea7apjwric",
                       "flexVerticalAlignment": "end",
                       "isDeprecated": false,
-                      "rightColumn": 18.346796657381613,
+                      "rightColumn": 21.867970685362693,
                       "isDefaultClickDisabled": true,
                       "widgetId": "2nlxt6k6jq",
                       "minWidth": 120,
@@ -1695,7 +1695,7 @@
                       "flexVerticalAlignment": "end",
                       "image": "",
                       "isDeprecated": false,
-                      "rightColumn": 12.479108635097493,
+                      "rightColumn": 14.89609310058188,
                       "objectFit": "contain",
                       "widgetId": "33ss5ypjzq",
                       "isVisible": true,
@@ -1734,7 +1734,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 12.479108635097493,
+                      "leftColumn": 14.89609310058188,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -1745,7 +1745,7 @@
                       "key": "ea7apjwric",
                       "flexVerticalAlignment": "end",
                       "isDeprecated": false,
-                      "rightColumn": 17.827298050139277,
+                      "rightColumn": 21.280133000831256,
                       "isDefaultClickDisabled": true,
                       "widgetId": "bss2hu6wc2",
                       "minWidth": 120,
@@ -1893,7 +1893,7 @@
                   "widgetName": "Canvas2",
                   "displayName": "Canvas",
                   "topRow": 0,
-                  "bottomRow": 400,
+                  "bottomRow": 398.00000000000006,
                   "parentRowSpace": 1,
                   "type": "CANVAS_WIDGET",
                   "canExtend": true,
